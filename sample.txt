@@ -1,0 +1,267 @@
+The Intra Internship was held from 11th October to 30th October for 14 days. It consists of 6 days of soft skill training sessions, 2 days of sports and games, 2 days of Arts, Cultural, and creativity 2 days of self-learning, and 2 days of Environment, Ethics, and Safety measures. These different types of sessions are required to develop certain skills, Creativity and to identify the strength and talents of the students. It gave me an opportunity to learn skills. It gave the students the platform to explore and express creativity.
+ 
+             The internship is required and it plays an important role. The first and most important advantage of pursuing an internship is that we get to integrate knowledge and skills. It helps to discover new things, familiarize myself with a new environment, helps to develop Confidence. It helps to showcase our talents and develop the confidence of handling specific duties effectively. Soft skill training helps us to develop communication skills, confidence, ability to work in a team and adapt to changes in the environment. It also helps to develop intrapersonal skills, strong leadership qualities, delegation, and teamwork.
+
+              The training session on Arts, culture, and creativity helps to identify and showcase our talents. Arts and cultural activities are also important to develop creativity. Participating in cultural activities gives us the chance to develop important life skills such as creativity, confidence, self-discipline, effective communication, and the ability to work in teams. It develops the capacity to think imaginatively, handle risk, define and explore complex problems and devise solutions to these problems.
+
+Art is the physical representation of cultural views, beliefs, and practices. It reflects the essence of the people through their drawing, painting, carving, body adornment, and folklore (Ember and Ember 2011). Art can help one to understand a culture that may otherwise be hard to relate t since it reaches people on a basic emotional level. Although art can also vary greatly between cultures, it can at the same time it can be a medium that bridges the gap between cultures. It can be used to represent the core beliefs of a society.
+
+             Sports and games make us mentally and physically fit. It reduces stress and develops positivity in us.
+It teaches various interpersonal skills such as patience, communication, leadership, punctuality, accountability, trust, and teamwork. Irrespective of being a team game or an individual game it makes us communicate with our team members or competitors. It will make us multitaskers and develop quick decision-making capacities and time management skills.
+
+The full form of NSS is a National Service Scheme.  NSS organizes regular camps which are funded by the Indian government in which the volunteers visit a rural area and perform activities like cleaning, afforestation, rallies, and stage shows. They may also invite doctors for regular health check-ups and free health camps for the rural population. The motto of NSS is “not me, but you”. This motto reflects the need for selfless service. The motto underlines the fact that the welfare of an individual ultimately depends on the welfare of society. Therefore, NSS shall work for the benefit of the whole society. 
+
+The national service scheme has been performing many important tasks and bringing good results from them. NSS contains the young population of the country, that is, the students studying in colleges and higher secondary schools. The young blood of these volunteers has a lot of passion. They want to do something for their country. By joining NSS they help in the development of the country. This helps in the overall development of the volunteers. The volunteers gain confidence by participating in the NSS activities. 
+1. MODERN TOOLS FOR DOCUMENTATION
+
+  We learned about modern tools for documentation in the self-learning session. which was held on 17/11/12 and 18/10/22. At the first, we learned about MS word and MS PowerPoint. We learned different tools and different methods to use MS word and MS PowerPoint. MS word was explained by Lavanya Mam and the PowerPoint presentation was by Rachana Mam.
+
+1.1 DAY 1
+
+            Developed by Microsoft, MS Word is amongst the most popular and widely used programs of the Microsoft Office suite. It is used to make professional-quality write-ups, edit and format existing documents, create graphical documents that comprise images, and more.
+
+1.11 Basic features of MS word.
+
+ Home: Basic elements that include under this option are font size, font style, font color, bullets, line spacing, alignment, etc.
+Insert: In your MS Word document, you can include graphs, shapes, images, charts, tables, footers, page numbers, headers, etc. that are available under the Insert option.
+Design: Under the Design tab, you get a list of templates or designs in which you want your document to be created to improve your document’s appearance.
+Page Layout: You get options like columns, lines, margins, orientation, spacing, identification, etc. under the Page Layout option.
+References: References tab is one of the most useful features that can be used by people who are writing books or creating a thesis. Under this option, you get options such as bibliography, table of contents, caption, and citation.
+Review: Under this tab, options line grammar, Thesaurus, spell check, language, translation, word count, comments, etc. are included.
+                                        
+                                                                                                  Figure  1.1  Microsoft Word   
+The Thesaurus is a software tool used in MS Word that helps you find synonyms and antonyms for the selected word. In your MS Word doc, go to File > Options > Proofing and click on AutoCorrect Options. On the AutoCorrect tab, the tick marks the box saying Replace text as you type. The autocorrects feature can be used to correct typos, misspelled words, and sentence casing errors. Also, it automatically inserts, symbols, and other text wherever required. 
+           
+ A processing document, MS Word is widely used for writing content, and essays, editing and formatting write-ups preparing graphical documents with images, etc. Whereas MS Excel is a spreadsheet software where you can save, you’re in a tabular form in numerical and alphabetical values.
+
+Listed down are a few shortcut keys of MS Word:
+•	Ctrl + A: Select all contents of the page
+•	Ctrl + B: Bold highlighted selection
+•	Ctrl + C: Copy selected text
+•	Ctrl + X: Cut selected text
+•	Ctrl + N: Open a new/blank document
+•	Ctrl + P: Open the print window
+•	Ctrl + I: Italicise highlighted selection
+•	Ctrl + U: Underline highlighted selection
+•	Ctrl + V: Paste
+•	Ctrl + Y: Redo the last action performed
+•	Ctrl + Z: Undo the last action
+•	Ctrl + G: Find and replace options
+•	F1: Open help
+•	F7: Spell check selected text and/or document
+•	F12: Save as
+•	Ctrl + S: Save
+•	Ctrl + W: Close the document
+•	Alt + Shift + D: Insert the current date
+•	Alt + Shift + T: Insert the current time
+•	Ctrl + Backspace: Delete the word to the left of the cursor
+1.12 Uses of MS Word
+
+Given below are the different fields in which MS Word is used and simplifies the work of an individual:
+•	In Education: It is considered one of the simplest tools which can be used by both teachers and students. Creating notes is easier using MS Word as they can be made more interactive by adding shapes and images. It is also convenient to make assignments on MS Word and submit them online
+•	In the Workplace: Submitting letters, bills, creating reports, letterheads, and sample documents, can all easily be done using MS Word
+•	Creating & Updating Resume: One of the best tools to create your resumes and is easy to edit and make changes in it as per your experience
+ Then in the next session, we had about MS PowerPoint. MS PowerPoint was explained by Rachana Mam. We learned about the features of MS PowerPoint, how to make slides, how `to insert a photo, about 3D models, how to make a photo album, and so on. Then we had to do three assignments. We had to write a report on our soft skill training using MS Word. To make the PowerPoint presentation about myself. Then to make a photo album of our college.
+ The most popular features of Microsoft PowerPoint are as follows: Animations, designs, being able to add images and videos, and also editing those images and videos. With PowerPoint, you can use all the features available to make presentations that stand out and could help you boost your career or sign a client. PowerPoint’s Design Ideas automatically and instantly provides you will several design options for a particular slide based on the content that is present on the slide.
+            First on this list and one of my favorite features of PowerPoint is the “Design Ideas“. It can be found in the “Design” tab in PowerPoint. Once you are there you will see two separate sections. One section will be a theme and the other will be a different variant of that theme. These themes are for each slide.
+         
+           Microsoft PowerPoint animations allow you to emphasize certain points of your current slide. There are primarily 3 categories of animations in PowerPoint. You can select any object in your slide and animate it with these animations: Emphasis animation can be used when you want to highlight or bring the attention of the audience members to a particular element on the slide.
+                                                                                                                                                                                                                                         Once you choose and apply the animations, you also get other options. You can select how long you want animations to last, when you want them to start, and when you want them to end. Microsoft was not shy when they gave us the number of features that they did regarding animations.
+              Sometimes an image can say a thousand words. With that in mind, it is easy to understand why adding images to your presentation can help you say more than you could while using words. Well, at least this is true in some cases. If your presentation feels slightly boring, don’t be afraid to throw in an image now and then. To be honest, most presentations require images anyway. Not only are they necessary, but in some cases, they can also spice up your presentation. When it comes to adding images, there are two main ways of doing this. You could either add an image via your PC or you can embed an image from somewhere else on the internet. Whatever best suits you, PowerPoint has you covered.
+             
+  Another great way of spicing up a presentation is to add videos to certain slides. As we discussed with images, a video can say a lot without having to use words. There are so many applications for using videos in your presentation. I guess the only limit would be your imagination. Videos can be easily added from the storage on your PC. This might make the size of your presentation quite large. 
+            
+ So, you might want to double-check the size of the video before inserting it into your presentation. Again, this is one of my favorite features of PowerPoint. You can easily add videos to your presentation from YouTube. We are trying to keep each section brief so I can’t go into too much detail about the importance of being able to add videos from YouTube. However, there are a lot of reasons.
+            
+ When you are giving a presentation, it is often difficult to constantly remember what you have to say. A PowerPoint presentation is created by Microsoft that allows the addition of audio, visual, and audio/visual features to a presentation. This is true even though you have the slide right in front of you. That is where the notes feature comes in. They can help you remember what to say for each slide which is a great way to stay on topic. Your presentation can be set up in a way that the notes do not appear on the presentation but they still appear on your PC or Mac. Remember, most of the time the people who are viewing the presentation cannot see this. Otherwise, you can also hide your notes.
+           
+ This is one of the most used features of PowerPoint. It is also one of the best features in terms of what you can do with it. Using charts in your presentations can help you illustrate data in an easy-to-understand way for your audience. You can also link charts to external data sources. Most notably, you can link to excel sheets. The chart’s functionality in PowerPoint is so versatile you can even get your chart to be updated automatically in PowerPoint when the data gets edited in excel.
+
+        Again, what if you upload a video to your PowerPoint presentation but don’t want to show the whole video? maybe you just want to show some parts or cut some pieces out. What is the first thing you would do? Open up a video editing software, right? Well, with PowerPoint you might not have to. While PowerPoint is not the next Adobe premiere, it does allow you to trim the video, cut portions of a video out, and finally add sound. It is a basic video editor.
+       
+Microsoft PowerPoint allows you to export entire presentations as videos. I know that you might be thinking why would this even be useful? Well, I alone can think of so many reasons why you would want to use this feature. Not all presentations are designed to be given by a speaker. The main reason for a PowerPoint presentation is to get a point across to somebody. This could be your employer, colleague, client, or even the classroom. If you don’t want to send somebody a presentation that they could edit or see the notes for and you just want them to watch it, this feature is for you. Why not export it as a video and give whomever you send the video to the ability to watch it on their own time, pause it at their own time, and take notes? Whichever one you like.  
+     
+A PowerPoint photo album is a presentation that you can create to display your personal or business photographs. If you want to create your photo album from a pre-made template, you can search for one in the search box labeled Search for online templates and themes and choose
+1.	Go to Insert and click the arrow under Photo Album, then New Photo Album.
+2.	In the Photo Album dialog box, under Insert picture from, click File/Disk.
+3.	In the Insert New Pictures dialog box, locate and click the folder that contains the picture that you want to insert, and then click Insert.
+4.	If you want to change the order in which the pictures are displayed, under Pictures in the album, click the file name of the picture that you want to move, and then use the arrow buttons to move it up or down in the list
+5.	In the Photo Album dialog box, click Create.
+The Intra Internship was held from 11th October to 30th October for 14 days. It consists of 6 days of soft skill training sessions, 2 days of sports and games, 2 days of Arts, Cultural, and creativity 2 days of self-learning, and 2 days of Environment, Ethics, and Safety measures. These different types of sessions are required to develop certain skills, Creativity and to identify the strength and talents of the students. It gave me an opportunity to learn skills. It gave the students the platform to explore and express creativity.
+ 
+             The internship is required and it plays an important role. The first and most important advantage of pursuing an internship is that we get to integrate knowledge and skills. It helps to discover new things, familiarize myself with a new environment, helps to develop Confidence. It helps to showcase our talents and develop the confidence of handling specific duties effectively. Soft skill training helps us to develop communication skills, confidence, ability to work in a team and adapt to changes in the environment. It also helps to develop intrapersonal skills, strong leadership qualities, delegation, and teamwork.
+
+              The training session on Arts, culture, and creativity helps to identify and showcase our talents. Arts and cultural activities are also important to develop creativity. Participating in cultural activities gives us the chance to develop important life skills such as creativity, confidence, self-discipline, effective communication, and the ability to work in teams. It develops the capacity to think imaginatively, handle risk, define and explore complex problems and devise solutions to these problems.
+
+Art is the physical representation of cultural views, beliefs, and practices. It reflects the essence of the people through their drawing, painting, carving, body adornment, and folklore (Ember and Ember 2011). Art can help one to understand a culture that may otherwise be hard to relate t since it reaches people on a basic emotional level. Although art can also vary greatly between cultures, it can at the same time it can be a medium that bridges the gap between cultures. It can be used to represent the core beliefs of a society.
+
+             Sports and games make us mentally and physically fit. It reduces stress and develops positivity in us.
+It teaches various interpersonal skills such as patience, communication, leadership, punctuality, accountability, trust, and teamwork. Irrespective of being a team game or an individual game it makes us communicate with our team members or competitors. It will make us multitaskers and develop quick decision-making capacities and time management skills.
+
+The full form of NSS is a National Service Scheme.  NSS organizes regular camps which are funded by the Indian government in which the volunteers visit a rural area and perform activities like cleaning, afforestation, rallies, and stage shows. They may also invite doctors for regular health check-ups and free health camps for the rural population. The motto of NSS is “not me, but you”. This motto reflects the need for selfless service. The motto underlines the fact that the welfare of an individual ultimately depends on the welfare of society. Therefore, NSS shall work for the benefit of the whole society. 
+
+The national service scheme has been performing many important tasks and bringing good results from them. NSS contains the young population of the country, that is, the students studying in colleges and higher secondary schools. The young blood of these volunteers has a lot of passion. They want to do something for their country. By joining NSS they help in the development of the country. This helps in the overall development of the volunteers. The volunteers gain confidence by participating in the NSS activities. 
+1. MODERN TOOLS FOR DOCUMENTATION
+
+  We learned about modern tools for documentation in the self-learning session. which was held on 17/11/12 and 18/10/22. At the first, we learned about MS word and MS PowerPoint. We learned different tools and different methods to use MS word and MS PowerPoint. MS word was explained by Lavanya Mam and the PowerPoint presentation was by Rachana Mam.
+
+1.1 DAY 1
+
+            Developed by Microsoft, MS Word is amongst the most popular and widely used programs of the Microsoft Office suite. It is used to make professional-quality write-ups, edit and format existing documents, create graphical documents that comprise images, and more.
+
+1.11 Basic features of MS word.
+
+ Home: Basic elements that include under this option are font size, font style, font color, bullets, line spacing, alignment, etc.
+Insert: In your MS Word document, you can include graphs, shapes, images, charts, tables, footers, page numbers, headers, etc. that are available under the Insert option.
+Design: Under the Design tab, you get a list of templates or designs in which you want your document to be created to improve your document’s appearance.
+Page Layout: You get options like columns, lines, margins, orientation, spacing, identification, etc. under the Page Layout option.
+References: References tab is one of the most useful features that can be used by people who are writing books or creating a thesis. Under this option, you get options such as bibliography, table of contents, caption, and citation.
+Review: Under this tab, options line grammar, Thesaurus, spell check, language, translation, word count, comments, etc. are included.
+                                        
+                                                                                                  Figure  1.1  Microsoft Word   
+The Thesaurus is a software tool used in MS Word that helps you find synonyms and antonyms for the selected word. In your MS Word doc, go to File > Options > Proofing and click on AutoCorrect Options. On the AutoCorrect tab, the tick marks the box saying Replace text as you type. The autocorrects feature can be used to correct typos, misspelled words, and sentence casing errors. Also, it automatically inserts, symbols, and other text wherever required. 
+           
+ A processing document, MS Word is widely used for writing content, and essays, editing and formatting write-ups preparing graphical documents with images, etc. Whereas MS Excel is a spreadsheet software where you can save, you’re in a tabular form in numerical and alphabetical values.
+
+Listed down are a few shortcut keys of MS Word:
+•	Ctrl + A: Select all contents of the page
+•	Ctrl + B: Bold highlighted selection
+•	Ctrl + C: Copy selected text
+•	Ctrl + X: Cut selected text
+•	Ctrl + N: Open a new/blank document
+•	Ctrl + P: Open the print window
+•	Ctrl + I: Italicise highlighted selection
+•	Ctrl + U: Underline highlighted selection
+•	Ctrl + V: Paste
+•	Ctrl + Y: Redo the last action performed
+•	Ctrl + Z: Undo the last action
+•	Ctrl + G: Find and replace options
+•	F1: Open help
+•	F7: Spell check selected text and/or document
+•	F12: Save as
+•	Ctrl + S: Save
+•	Ctrl + W: Close the document
+•	Alt + Shift + D: Insert the current date
+•	Alt + Shift + T: Insert the current time
+•	Ctrl + Backspace: Delete the word to the left of the cursor
+1.12 Uses of MS Word
+
+Given below are the different fields in which MS Word is used and simplifies the work of an individual:
+•	In Education: It is considered one of the simplest tools which can be used by both teachers and students. Creating notes is easier using MS Word as they can be made more interactive by adding shapes and images. It is also convenient to make assignments on MS Word and submit them online
+•	In the Workplace: Submitting letters, bills, creating reports, letterheads, and sample documents, can all easily be done using MS Word
+•	Creating & Updating Resume: One of the best tools to create your resumes and is easy to edit and make changes in it as per your experience
+ Then in the next session, we had about MS PowerPoint. MS PowerPoint was explained by Rachana Mam. We learned about the features of MS PowerPoint, how to make slides, how `to insert a photo, about 3D models, how to make a photo album, and so on. Then we had to do three assignments. We had to write a report on our soft skill training using MS Word. To make the PowerPoint presentation about myself. Then to make a photo album of our college.
+ The most popular features of Microsoft PowerPoint are as follows: Animations, designs, being able to add images and videos, and also editing those images and videos. With PowerPoint, you can use all the features available to make presentations that stand out and could help you boost your career or sign a client. PowerPoint’s Design Ideas automatically and instantly provides you will several design options for a particular slide based on the content that is present on the slide.
+            First on this list and one of my favorite features of PowerPoint is the “Design Ideas“. It can be found in the “Design” tab in PowerPoint. Once you are there you will see two separate sections. One section will be a theme and the other will be a different variant of that theme. These themes are for each slide.
+         
+           Microsoft PowerPoint animations allow you to emphasize certain points of your current slide. There are primarily 3 categories of animations in PowerPoint. You can select any object in your slide and animate it with these animations: Emphasis animation can be used when you want to highlight or bring the attention of the audience members to a particular element on the slide.
+                                                                                                                                                                                                                                         Once you choose and apply the animations, you also get other options. You can select how long you want animations to last, when you want them to start, and when you want them to end. Microsoft was not shy when they gave us the number of features that they did regarding animations.
+              Sometimes an image can say a thousand words. With that in mind, it is easy to understand why adding images to your presentation can help you say more than you could while using words. Well, at least this is true in some cases. If your presentation feels slightly boring, don’t be afraid to throw in an image now and then. To be honest, most presentations require images anyway. Not only are they necessary, but in some cases, they can also spice up your presentation. When it comes to adding images, there are two main ways of doing this. You could either add an image via your PC or you can embed an image from somewhere else on the internet. Whatever best suits you, PowerPoint has you covered.
+             
+  Another great way of spicing up a presentation is to add videos to certain slides. As we discussed with images, a video can say a lot without having to use words. There are so many applications for using videos in your presentation. I guess the only limit would be your imagination. Videos can be easily added from the storage on your PC. This might make the size of your presentation quite large. 
+            
+ So, you might want to double-check the size of the video before inserting it into your presentation. Again, this is one of my favorite features of PowerPoint. You can easily add videos to your presentation from YouTube. We are trying to keep each section brief so I can’t go into too much detail about the importance of being able to add videos from YouTube. However, there are a lot of reasons.
+            
+ When you are giving a presentation, it is often difficult to constantly remember what you have to say. A PowerPoint presentation is created by Microsoft that allows the addition of audio, visual, and audio/visual features to a presentation. This is true even though you have the slide right in front of you. That is where the notes feature comes in. They can help you remember what to say for each slide which is a great way to stay on topic. Your presentation can be set up in a way that the notes do not appear on the presentation but they still appear on your PC or Mac. Remember, most of the time the people who are viewing the presentation cannot see this. Otherwise, you can also hide your notes.
+           
+ This is one of the most used features of PowerPoint. It is also one of the best features in terms of what you can do with it. Using charts in your presentations can help you illustrate data in an easy-to-understand way for your audience. You can also link charts to external data sources. Most notably, you can link to excel sheets. The chart’s functionality in PowerPoint is so versatile you can even get your chart to be updated automatically in PowerPoint when the data gets edited in excel.
+
+        Again, what if you upload a video to your PowerPoint presentation but don’t want to show the whole video? maybe you just want to show some parts or cut some pieces out. What is the first thing you would do? Open up a video editing software, right? Well, with PowerPoint you might not have to. While PowerPoint is not the next Adobe premiere, it does allow you to trim the video, cut portions of a video out, and finally add sound. It is a basic video editor.
+       
+Microsoft PowerPoint allows you to export entire presentations as videos. I know that you might be thinking why would this even be useful? Well, I alone can think of so many reasons why you would want to use this feature. Not all presentations are designed to be given by a speaker. The main reason for a PowerPoint presentation is to get a point across to somebody. This could be your employer, colleague, client, or even the classroom. If you don’t want to send somebody a presentation that they could edit or see the notes for and you just want them to watch it, this feature is for you. Why not export it as a video and give whomever you send the video to the ability to watch it on their own time, pause it at their own time, and take notes? Whichever one you like.  
+     
+A PowerPoint photo album is a presentation that you can create to display your personal or business photographs. If you want to create your photo album from a pre-made template, you can search for one in the search box labeled Search for online templates and themes and choose
+1.	Go to Insert and click the arrow under Photo Album, then New Photo Album.
+2.	In the Photo Album dialog box, under Insert picture from, click File/Disk.
+3.	In the Insert New Pictures dialog box, locate and click the folder that contains the picture that you want to insert, and then click Insert.
+4.	If you want to change the order in which the pictures are displayed, under Pictures in the album, click the file name of the picture that you want to move, and then use the arrow buttons to move it up or down in the list
+5.	In the Photo Album dialog box, click Create.
+The Intra Internship was held from 11th October to 30th October for 14 days. It consists of 6 days of soft skill training sessions, 2 days of sports and games, 2 days of Arts, Cultural, and creativity 2 days of self-learning, and 2 days of Environment, Ethics, and Safety measures. These different types of sessions are required to develop certain skills, Creativity and to identify the strength and talents of the students. It gave me an opportunity to learn skills. It gave the students the platform to explore and express creativity.
+ 
+             The internship is required and it plays an important role. The first and most important advantage of pursuing an internship is that we get to integrate knowledge and skills. It helps to discover new things, familiarize myself with a new environment, helps to develop Confidence. It helps to showcase our talents and develop the confidence of handling specific duties effectively. Soft skill training helps us to develop communication skills, confidence, ability to work in a team and adapt to changes in the environment. It also helps to develop intrapersonal skills, strong leadership qualities, delegation, and teamwork.
+
+              The training session on Arts, culture, and creativity helps to identify and showcase our talents. Arts and cultural activities are also important to develop creativity. Participating in cultural activities gives us the chance to develop important life skills such as creativity, confidence, self-discipline, effective communication, and the ability to work in teams. It develops the capacity to think imaginatively, handle risk, define and explore complex problems and devise solutions to these problems.
+
+Art is the physical representation of cultural views, beliefs, and practices. It reflects the essence of the people through their drawing, painting, carving, body adornment, and folklore (Ember and Ember 2011). Art can help one to understand a culture that may otherwise be hard to relate t since it reaches people on a basic emotional level. Although art can also vary greatly between cultures, it can at the same time it can be a medium that bridges the gap between cultures. It can be used to represent the core beliefs of a society.
+
+             Sports and games make us mentally and physically fit. It reduces stress and develops positivity in us.
+It teaches various interpersonal skills such as patience, communication, leadership, punctuality, accountability, trust, and teamwork. Irrespective of being a team game or an individual game it makes us communicate with our team members or competitors. It will make us multitaskers and develop quick decision-making capacities and time management skills.
+
+The full form of NSS is a National Service Scheme.  NSS organizes regular camps which are funded by the Indian government in which the volunteers visit a rural area and perform activities like cleaning, afforestation, rallies, and stage shows. They may also invite doctors for regular health check-ups and free health camps for the rural population. The motto of NSS is “not me, but you”. This motto reflects the need for selfless service. The motto underlines the fact that the welfare of an individual ultimately depends on the welfare of society. Therefore, NSS shall work for the benefit of the whole society. 
+
+The national service scheme has been performing many important tasks and bringing good results from them. NSS contains the young population of the country, that is, the students studying in colleges and higher secondary schools. The young blood of these volunteers has a lot of passion. They want to do something for their country. By joining NSS they help in the development of the country. This helps in the overall development of the volunteers. The volunteers gain confidence by participating in the NSS activities. 
+1. MODERN TOOLS FOR DOCUMENTATION
+
+  We learned about modern tools for documentation in the self-learning session. which was held on 17/11/12 and 18/10/22. At the first, we learned about MS word and MS PowerPoint. We learned different tools and different methods to use MS word and MS PowerPoint. MS word was explained by Lavanya Mam and the PowerPoint presentation was by Rachana Mam.
+
+1.1 DAY 1
+
+            Developed by Microsoft, MS Word is amongst the most popular and widely used programs of the Microsoft Office suite. It is used to make professional-quality write-ups, edit and format existing documents, create graphical documents that comprise images, and more.
+
+1.11 Basic features of MS word.
+
+ Home: Basic elements that include under this option are font size, font style, font color, bullets, line spacing, alignment, etc.
+Insert: In your MS Word document, you can include graphs, shapes, images, charts, tables, footers, page numbers, headers, etc. that are available under the Insert option.
+Design: Under the Design tab, you get a list of templates or designs in which you want your document to be created to improve your document’s appearance.
+Page Layout: You get options like columns, lines, margins, orientation, spacing, identification, etc. under the Page Layout option.
+References: References tab is one of the most useful features that can be used by people who are writing books or creating a thesis. Under this option, you get options such as bibliography, table of contents, caption, and citation.
+Review: Under this tab, options line grammar, Thesaurus, spell check, language, translation, word count, comments, etc. are included.
+                                        
+                                                                                                  Figure  1.1  Microsoft Word   
+The Thesaurus is a software tool used in MS Word that helps you find synonyms and antonyms for the selected word. In your MS Word doc, go to File > Options > Proofing and click on AutoCorrect Options. On the AutoCorrect tab, the tick marks the box saying Replace text as you type. The autocorrects feature can be used to correct typos, misspelled words, and sentence casing errors. Also, it automatically inserts, symbols, and other text wherever required. 
+           
+ A processing document, MS Word is widely used for writing content, and essays, editing and formatting write-ups preparing graphical documents with images, etc. Whereas MS Excel is a spreadsheet software where you can save, you’re in a tabular form in numerical and alphabetical values.
+
+Listed down are a few shortcut keys of MS Word:
+•	Ctrl + A: Select all contents of the page
+•	Ctrl + B: Bold highlighted selection
+•	Ctrl + C: Copy selected text
+•	Ctrl + X: Cut selected text
+•	Ctrl + N: Open a new/blank document
+•	Ctrl + P: Open the print window
+•	Ctrl + I: Italicise highlighted selection
+•	Ctrl + U: Underline highlighted selection
+•	Ctrl + V: Paste
+•	Ctrl + Y: Redo the last action performed
+•	Ctrl + Z: Undo the last action
+•	Ctrl + G: Find and replace options
+•	F1: Open help
+•	F7: Spell check selected text and/or document
+•	F12: Save as
+•	Ctrl + S: Save
+•	Ctrl + W: Close the document
+•	Alt + Shift + D: Insert the current date
+•	Alt + Shift + T: Insert the current time
+•	Ctrl + Backspace: Delete the word to the left of the cursor
+1.12 Uses of MS Word
+
+Given below are the different fields in which MS Word is used and simplifies the work of an individual:
+•	In Education: It is considered one of the simplest tools which can be used by both teachers and students. Creating notes is easier using MS Word as they can be made more interactive by adding shapes and images. It is also convenient to make assignments on MS Word and submit them online
+•	In the Workplace: Submitting letters, bills, creating reports, letterheads, and sample documents, can all easily be done using MS Word
+•	Creating & Updating Resume: One of the best tools to create your resumes and is easy to edit and make changes in it as per your experience
+ Then in the next session, we had about MS PowerPoint. MS PowerPoint was explained by Rachana Mam. We learned about the features of MS PowerPoint, how to make slides, how `to insert a photo, about 3D models, how to make a photo album, and so on. Then we had to do three assignments. We had to write a report on our soft skill training using MS Word. To make the PowerPoint presentation about myself. Then to make a photo album of our college.
+ The most popular features of Microsoft PowerPoint are as follows: Animations, designs, being able to add images and videos, and also editing those images and videos. With PowerPoint, you can use all the features available to make presentations that stand out and could help you boost your career or sign a client. PowerPoint’s Design Ideas automatically and instantly provides you will several design options for a particular slide based on the content that is present on the slide.
+            First on this list and one of my favorite features of PowerPoint is the “Design Ideas“. It can be found in the “Design” tab in PowerPoint. Once you are there you will see two separate sections. One section will be a theme and the other will be a different variant of that theme. These themes are for each slide.
+         
+           Microsoft PowerPoint animations allow you to emphasize certain points of your current slide. There are primarily 3 categories of animations in PowerPoint. You can select any object in your slide and animate it with these animations: Emphasis animation can be used when you want to highlight or bring the attention of the audience members to a particular element on the slide.
+                                                                                                                                                                                                                                         Once you choose and apply the animations, you also get other options. You can select how long you want animations to last, when you want them to start, and when you want them to end. Microsoft was not shy when they gave us the number of features that they did regarding animations.
+              Sometimes an image can say a thousand words. With that in mind, it is easy to understand why adding images to your presentation can help you say more than you could while using words. Well, at least this is true in some cases. If your presentation feels slightly boring, don’t be afraid to throw in an image now and then. To be honest, most presentations require images anyway. Not only are they necessary, but in some cases, they can also spice up your presentation. When it comes to adding images, there are two main ways of doing this. You could either add an image via your PC or you can embed an image from somewhere else on the internet. Whatever best suits you, PowerPoint has you covered.
+             
+  Another great way of spicing up a presentation is to add videos to certain slides. As we discussed with images, a video can say a lot without having to use words. There are so many applications for using videos in your presentation. I guess the only limit would be your imagination. Videos can be easily added from the storage on your PC. This might make the size of your presentation quite large. 
+            
+ So, you might want to double-check the size of the video before inserting it into your presentation. Again, this is one of my favorite features of PowerPoint. You can easily add videos to your presentation from YouTube. We are trying to keep each section brief so I can’t go into too much detail about the importance of being able to add videos from YouTube. However, there are a lot of reasons.
+            
+ When you are giving a presentation, it is often difficult to constantly remember what you have to say. A PowerPoint presentation is created by Microsoft that allows the addition of audio, visual, and audio/visual features to a presentation. This is true even though you have the slide right in front of you. That is where the notes feature comes in. They can help you remember what to say for each slide which is a great way to stay on topic. Your presentation can be set up in a way that the notes do not appear on the presentation but they still appear on your PC or Mac. Remember, most of the time the people who are viewing the presentation cannot see this. Otherwise, you can also hide your notes.
+           
+ This is one of the most used features of PowerPoint. It is also one of the best features in terms of what you can do with it. Using charts in your presentations can help you illustrate data in an easy-to-understand way for your audience. You can also link charts to external data sources. Most notably, you can link to excel sheets. The chart’s functionality in PowerPoint is so versatile you can even get your chart to be updated automatically in PowerPoint when the data gets edited in excel.
+
+        Again, what if you upload a video to your PowerPoint presentation but don’t want to show the whole video? maybe you just want to show some parts or cut some pieces out. What is the first thing you would do? Open up a video editing software, right? Well, with PowerPoint you might not have to. While PowerPoint is not the next Adobe premiere, it does allow you to trim the video, cut portions of a video out, and finally add sound. It is a basic video editor.
+       
+Microsoft PowerPoint allows you to export entire presentations as videos. I know that you might be thinking why would this even be useful? Well, I alone can think of so many reasons why you would want to use this feature. Not all presentations are designed to be given by a speaker. The main reason for a PowerPoint presentation is to get a point across to somebody. This could be your employer, colleague, client, or even the classroom. If you don’t want to send somebody a presentation that they could edit or see the notes for and you just want them to watch it, this feature is for you. Why not export it as a video and give whomever you send the video to the ability to watch it on their own time, pause it at their own time, and take notes? Whichever one you like.  
+     
+A PowerPoint photo album is a presentation that you can create to display your personal or business photographs. If you want to create your photo album from a pre-made template, you can search for one in the search box labeled Search for online templates and themes and choose
+1.	Go to Insert and click the arrow under Photo Album, then New Photo Album.
+2.	In the Photo Album dialog box, under Insert picture from, click File/Disk.
+3.	In the Insert New Pictures dialog box, locate and click the folder that contains the picture that you want to insert, and then click Insert.
+4.	If you want to change the order in which the pictures are displayed, under Pictures in the album, click the file name of the picture that you want to move, and then use the arrow buttons to move it up or down in the list
+5.	In the Photo Album dialog box, click Create.
